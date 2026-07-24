@@ -1,0 +1,9 @@
+{
+  "name": "enterprise/cloud-ops-php-blade-v40",
+  "description": "Cloud Resource & Infrastructure Portal powered by PHP / Modular Blade",
+  "type": "project",
+  "require": {
+    "php": "^8.2",
+    "laravel/framework": "^11.0"
+  }
+}
